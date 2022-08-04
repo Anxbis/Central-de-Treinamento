@@ -1,5 +1,5 @@
 ---
-description: '='
+description: SEXO SEXO SEXO SEXO SEXO SEXO
 ---
 
 # Central de Treinamento

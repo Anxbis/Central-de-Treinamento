@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Centralgitbook.png
+coverY: 2.2613065326633164
+---
+
 # Central de Treinamento
 
 Um servidor focado em treinamento para comunidades, conhecimentos em geral dentro do Discord, onde, tando Moderadores quanto Administradores poderão aprimorar e aprender ainda mais sobre ferramentas e funções dentro do Discord.

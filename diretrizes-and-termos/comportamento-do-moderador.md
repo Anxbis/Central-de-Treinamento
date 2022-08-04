@@ -2,7 +2,6 @@
 
 
 
-> \
 > <mark style="color:blue;">**Comportamento em Público**</mark>
 
 ・É importante estar ciente do fato de que o seu comportamento público em ambos os servidores que você moderar e em outros servidores dos quais você é membro afetará a forma como os usuários o veem como moderador.

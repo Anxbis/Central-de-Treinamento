@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Central de Treinamento](README.md)
-* [Conhecimento Geral](conhecimento-geral.md)
+* [Conhecimento Geral](conhecimento-geral/README.md)
 * [Truques & Utilidades](truques-and-utilidades.md)
 * [Diretrizes & Termos](diretrizes-and-termos/README.md)
   * [Comportamento do Moderador](diretrizes-and-termos/comportamento-do-moderador.md)

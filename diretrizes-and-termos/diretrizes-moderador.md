@@ -1,8 +1,6 @@
 # Diretrizes Moderador
 
-
-
-**Bem-vindo à equipe de moderação do servidor!**&#x20;
+> <mark style="color:blue;">**Bem-vindo à equipe de moderação do servidor!**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark>&#x20;
 
 ・Este canal serve para descrever algumas diretrizes de moderação para o desempenho de suas funções de moderador.&#x20;
 
@@ -48,7 +46,11 @@ Se grupos de pessoas estão continuamente perto de quebrar a mesma regra, pode v
 
 > <mark style="color:blue;">**Diretriz 4 - O Espírito das Regras**</mark>
 
-Lembre-se de que fazer cumprir o espírito das regras é mais importante do que segui-las literalmente. O pensamento crítico é encorajado em vez da adesão cega às regras. Se você acredita que alguém deve ser avisado por um comportamento que não está coberto pelas regras, ou que as regras determinam que você deve avisar alguém por algo que você pensa que ela não merece ser avisada, por favor, traga isso para o resto da equipe de moderação antes de agir. As regras são um documento vivo e os moderadores devem garantir que elas existam para o bem do servidor, ao invés de aceitá-las como evangelho.
+Lembre-se de que fazer cumprir o espírito das regras é mais importante do que segui-las literalmente. O pensamento crítico é encorajado em vez da adesão cega às regras.&#x20;
+
+Se você acredita que alguém deve ser avisado por um comportamento que não está coberto pelas regras, ou que as regras determinam que você deve avisar alguém por algo que você pensa que ela não merece ser avisada, por favor, traga isso para o resto da equipe de moderação antes de agir.&#x20;
+
+As regras são um documento vivo e os moderadores devem garantir que elas existam para o bem do servidor, ao invés de aceitá-las como evangelho.
 
 > <mark style="color:blue;">**Diretriz 5 - Quando e como silenciar ou banir**</mark>
 
